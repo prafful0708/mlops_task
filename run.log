@@ -1,0 +1,22 @@
+2026-07-03 23:41:16,876 - INFO - Program Started
+2026-07-03 23:41:16,964 - INFO - Metrics calculated successfully
+2026-07-03 23:41:17,037 - INFO - Processed data saved
+2026-07-03 23:41:17,037 - INFO - Execution Time: 0.16 seconds
+2026-07-03 23:41:17,037 - INFO - Program Finished
+2026-07-03 23:56:07,417 - INFO - Program Started
+2026-07-03 23:57:17,958 - INFO - Program Started
+2026-07-03 23:57:18,069 - INFO - Metrics calculated successfully
+2026-07-03 23:57:18,131 - INFO - Processed data saved
+2026-07-03 23:57:18,132 - INFO - Execution Time: 0.17 seconds
+2026-07-03 23:57:18,132 - INFO - Program Finished
+2026-07-04 00:13:25,284 - INFO - Program Started
+2026-07-04 00:13:25,286 - INFO - Config Loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-07-04 00:13:25,350 - INFO - Rows Loaded: 10000
+2026-07-04 00:13:25,372 - INFO - Rows Loaded: 10000
+2026-07-04 00:13:25,403 - INFO - Rolling Mean Calculated
+2026-07-04 00:13:25,409 - INFO - Signals Generated
+2026-07-04 00:13:25,412 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 126, 'seed': 42, 'status': 'success'}
+2026-07-04 00:13:25,412 - INFO - Metrics calculated successfully
+2026-07-04 00:13:25,475 - INFO - Processed data saved
+2026-07-04 00:13:25,475 - INFO - Execution Time: 126 ms
+2026-07-04 00:13:25,476 - INFO - Program Finished
